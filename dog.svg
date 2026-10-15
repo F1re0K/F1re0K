@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="560" viewBox="40 87 420 280">
+  <rect x="40" y="87" width="420" height="280" fill="#fff"/>
+  <g fill="none" stroke="#000" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <!-- ears -->
+    <polygon points="200,150 72,212 124,272"/>
+    <polygon points="300,150 428,212 376,272"/>
+    <!-- mouth -->
+    <path d="M190,288 C202,304 238,304 250,282 C262,304 298,304 310,288"/>
+  </g>
+  <g fill="#000">
+    <!-- eyes -->
+    <ellipse cx="200" cy="212" rx="10" ry="16"/>
+    <ellipse cx="300" cy="212" rx="10" ry="16"/>
+    <!-- nose -->
+    <ellipse cx="250" cy="272" rx="18" ry="12"/>
+  </g>
+</svg>
